@@ -8,6 +8,9 @@ Comparadores Lógicos
 Laços de Repetição
 Manipular DOM
 
+
+REPL.
+
 --------- ###
 
 00:00:00 - O que você vai aprender
